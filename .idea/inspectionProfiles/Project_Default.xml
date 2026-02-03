@@ -1,0 +1,27 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="SQLAlchemy" />
+          <option value="PyMySQL" />
+          <option value="cryptography" />
+          <option value="pyOpenSSL" />
+          <option value="pyinstaller" />
+          <option value="pywin32" />
+          <option value="cx_Freeze" />
+          <option value="loguru" />
+          <option value="sentry-sdk" />
+          <option value="qdarkstyle" />
+          <option value="qt-material" />
+          <option value="pyqtgraph" />
+          <option value="black" />
+          <option value="flake8" />
+          <option value="isort" />
+          <option value="mypy" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
