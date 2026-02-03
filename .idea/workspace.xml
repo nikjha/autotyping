@@ -5,27 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d7fc2ae-4bc7-4861-be88-e0cf0d5fa3fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/auto-typing-software.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/libcrypto-3.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/libffi-8.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/libssl-3.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pyexpat.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python3.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python313.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pythonw.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/select.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/vcruntime140.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/vcruntime140_1.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/pyvenv.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_advance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_advance_suite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +16,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "nikjha"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/nikjha/autotyping.git",
+    "accountId": "c8bad558-a525-4d22-8f3b-68faffae25d3"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
